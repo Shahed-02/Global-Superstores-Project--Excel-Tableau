@@ -46,7 +46,8 @@ The dashboard visualizes:
 - **Monthly Trends**: Line chart illustrating sales and profit fluctuations over time.
 
   
-![Dashboard 1 (2)](https://github.com/user-attachments/assets/1f51dcd6-fedd-4880-bea5-27686f735016)
+![Dashboard 1 (4)](https://github.com/user-attachments/assets/29cb623e-35b6-466a-95ca-ec62e4816e90)
+
 
 ---
 
