@@ -23,7 +23,7 @@ The dashboard visualizes:
 - **Visualizations**: Designed 4 key visuals, including:
   - **Bar charts** 📊 for category-wise sales and profit.
   - **Line charts** 📈 showing trends over time.
-  - **Pie charts** 🍎 for customer segment distribution.
+  - **Pie charts** 🥧 for customer segment distribution.
   - **Maps** 🌍 depicting regional performance.
 
 - **Dashboard Design**: Combined all visuals into a cohesive, interactive dashboard that allows for:
