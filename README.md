@@ -45,6 +45,9 @@ The dashboard visualizes:
 - **Customer Segments Analysis**: Pie chart breaking down profit contributions by customer segments.
 - **Monthly Trends**: Line chart illustrating sales and profit fluctuations over time.
 
+  
+![Dashboard 1 (2)](https://github.com/user-attachments/assets/1f51dcd6-fedd-4880-bea5-27686f735016)
+
 ---
 
 ## 📊 **Key Findings**
