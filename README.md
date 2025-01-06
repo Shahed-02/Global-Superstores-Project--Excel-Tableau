@@ -64,7 +64,7 @@ The dashboard visualizes:
 
 ## 🚀 **How to Explore**
 
-🔗 **View the Tableau Dashboard**: https://public.tableau.com/app/profile/shahed.ali2592/viz/GlobalSuperstoresProject-ExcelTableau/Dashboard1#1
+🔗 **View the Tableau Dashboard**: [View the Tableau Dashboard](https://public.tableau.com/app/profile/shahed.ali2592/viz/GlobalSuperstoresProject-ExcelTableau/Dashboard1#1)
 
 Use the filters for:
 - Region-wise analysis.
@@ -92,7 +92,7 @@ This project helped me enhance my **data preparation**, **visualization**, and *
 
 ## 📑 **Files in Repository**
 
-- **Dashboard Link**: Access the live Tableau dashboard [https://public.tableau.com/app/profile/shahed.ali2592/viz/GlobalSuperstoresProject-ExcelTableau/Dashboard1#1].
+- **Dashboard Link**: [View the Tableau Dashboard](https://public.tableau.com/app/profile/shahed.ali2592/viz/GlobalSuperstoresProject-ExcelTableau/Dashboard1#1)
 - **Dataset**: Global Superstore sales data used for analysis.
 
 🌐 Ready to explore the Global Superstore data? Click the dashboard link and start uncovering insights!
