@@ -53,6 +53,9 @@ The dashboard visualizes:
 
 ## 📊 **Key Findings**
 
+![Dashboard 1 (5)](https://github.com/user-attachments/assets/24de7191-53bc-4d0a-af7c-3a3774c47df5)
+
+
 - 🏆 **Top-Performing Product Category**:
   - **Office Supplies** recorded the highest sales and profit.
 
